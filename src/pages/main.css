@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  width: 35%;
+  justify-content: space-between;
+  margin: 2rem 0;
+}
+
+.result {
+  margin-top: 2rem;
+  font-size: 2rem;
+}
